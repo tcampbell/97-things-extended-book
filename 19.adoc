@@ -1,5 +1,7 @@
-= ﻿Architects must be hands on
+= Architects must be hands on
 :author: John Davies
+
+By: {author}
 
 A good architect should lead by example, he (or she) should be able to fulfill any of the positions within his team from wiring the network, and configuring the build process to writing the unit tests and running benchmarks.
 Without a good understanding of the full range of technology an architect is little more than a project manager.

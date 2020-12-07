@@ -1,6 +1,8 @@
 = Welcome to the Real World
 :author: Gregor Hohpe
 
+By: {author}
+
 Engineers like precision, especially software engineers who live in the realm of ones and zeros.
 They are used to working with binary decisions, one or zero, true or false, yes or no.
 Everything is clear and consistent, guaranteed by foreign key constraints, atomic transactions, and check sums.

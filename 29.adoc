@@ -1,6 +1,8 @@
 = Try before choosing
 :author: Erik Doernenburg
 
+By: {author}
+
 Creating an application requires many decisions to be made.
 Some might involve choosing a framework or library while others revolve around the use of specific design patterns.
 In either case the responsibility for the decision generally lies with the architect on the team.

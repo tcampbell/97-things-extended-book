@@ -1,5 +1,7 @@
-= ﻿Stand Up!
+= Stand Up!
 :author: Udi Dahan
+
+By: {author}
 
 As architects, many of us have grown from highly technical positions where our success was derived mainly from our ability to talk to machines.
 However, in the role of architect much of our communication is now done with our fellow human beings. Whether it's talking to developers about the benefits of employing a specific pattern, or explaining to management the cost-benefit tradeoffs of buying middleware, communication is core to our success.

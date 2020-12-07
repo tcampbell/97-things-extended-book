@@ -1,5 +1,7 @@
-= ﻿Value stewardship over showmanship
+= Value stewardship over showmanship
 :author: Barry Hawkins
+
+By: {author}
 
 When an architect enters a project, there is an understandable desire to prove one's worth.
 Being assigned the role of software architect typically indicates implicit trust on the part of the company in architect's technical leadership, and it only follows that the architect would desire to make good on that expectation as soon as possible.

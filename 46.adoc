@@ -1,5 +1,7 @@
-= ﻿Fight repetition
+= Fight repetition
 :author: Niclas Nilsson
+
+By: {author}
 
 Are your developers performing recurring tasks that needs little thinking?
 Can you find recurring patterns in the code?

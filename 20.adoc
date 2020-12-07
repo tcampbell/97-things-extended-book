@@ -1,5 +1,7 @@
-= ﻿Continuously Integrate
+= Continuously Integrate
 :author: Dave Bartlett
+
+By: {author}
 
 The build as a "big bang" event in project development is dead.
 The architect, whether an application or enterprise architect, should promote and encourage the use of continuous integration methods and tools for every project.

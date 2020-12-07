@@ -1,6 +1,8 @@
 = There is no 'I' in architecture
 :author: Dave Quick
 
+By: {author}
+
 I know, there really is an 'i' in architecture.
 But it's not a capital 'I', calling attention to itself, dominating discussion.
 The lower-case character fits neatly within the word.

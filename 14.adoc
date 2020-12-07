@@ -1,5 +1,7 @@
-= ﻿Application architecture determines application performance
+= Application architecture determines application performance
 :author: Randy Stafford
+
+By: {author}
 
 Application architecture determines application performance.
 That might seem rather obvious, but real-word experience shows that its not.

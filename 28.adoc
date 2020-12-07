@@ -1,6 +1,8 @@
 = Get the 1000ft view
 :author: Erik Doernenburg
 
+By: {author}
+
 As an architect we want to know how good the software is that we are developing.
 Its quality has an obvious external aspect, the software should be of value to its users, but there is also a more elusive internal aspect to quality, to do with the clarity of the design, the ease with which we can understand, maintain, and extend the software.
 When pressed for a definition, this is where we usually end up saying "I know it when I see it."

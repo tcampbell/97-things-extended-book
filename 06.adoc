@@ -1,5 +1,7 @@
-= ﻿Seek the value in requested capabilities
+= Seek the value in requested capabilities
 :author: Einar Landre
+
+By: {author}
 
 Often customers and end-users state what they think is a viable solution to a problem as a requirement.
 The classical story on this was told by Harry Hillaker, the lead designer of the F-16 Falcon.

@@ -1,6 +1,8 @@
 = Architecting is about balancing
 :author: Randy Stafford
 
+By: {author}
+
 Balance stakeholders' interests with technical requirements
 
 When we think of architecting software, we tend to think first of classical technical activities, like modularizing systems, defining interfaces, allocating responsibility, applying patterns, and optimizing performance.

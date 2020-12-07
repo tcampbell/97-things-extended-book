@@ -1,5 +1,7 @@
-= ﻿Reuse is about people and education, not just architecture
+= Reuse is about people and education, not just architecture
 :author: Jeremy Meyer
+
+By: {author}
 
 You might adopt the approach that a framework that is well designed, or an architecture that is carefully considered, and cleverly implemented will lend itself to re-use within your organization.
 The truth is that even the most beautiful, elegant and re-usable architecture, framework or system will only be re-used by people who:

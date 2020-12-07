@@ -1,5 +1,7 @@
-= ﻿Time changes everything
+= Time changes everything
 :author: Philip Nelson
+
+By: {author}
 
 One of the things I've been most entertained by as the years have gone by, is observing what things have lasted and what haven't.
 So many patterns, frameworks, paradigm changes, and algorithms, all argued for with passion by smart people, thinking of the long term, balancing all the known issues, have not warranted more than a yawn over the long haul.

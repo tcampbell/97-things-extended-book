@@ -1,5 +1,7 @@
-= ﻿Avoid Scheduling Failures
+= Avoid Scheduling Failures
 :author: Norman Carnovale
+
+By: {author}
 
 Failed projects can happen for a multitude of reasons.
 One of the most common sources of failure is altering the project schedule in midstream without proper planning.

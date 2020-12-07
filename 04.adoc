@@ -1,6 +1,8 @@
 = Communication is King; Clarity and Leadership its humble servants
 :author: Mark Richards
 
+By: {author}
+
 All too often software architects sit in their ivory towers, dictating specifications, technology decisions, and technology direction to the developers below.
 More often than not this leads to dissension in the ranks, quickly followed by a revolt by the masses, finally resulting in a software product that doesn't even come close to resembling the original requirements.
 Every software architect should know how to communicate the goals and objectives of a software project.

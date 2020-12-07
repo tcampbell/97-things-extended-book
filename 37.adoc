@@ -1,5 +1,7 @@
-= ﻿Software architecture has ethical consequences
+= Software architecture has ethical consequences
 :author: Michael Nygard
+
+By: {author}
 
 The ethical dimension in software is obvious when we are talking about civil rights, identity theft, or malicious software.
 But they arise in less exotic circumstances.

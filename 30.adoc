@@ -1,5 +1,7 @@
-= ﻿Understand The Business Domain
+= Understand The Business Domain
 :author: Mark Richards
+
+By: {author}
 
 Effective software architects understand not only technology but also the business domain of a problem space.
 Without business domain knowledge, it is difficult to understand the business problem, goals, and requirements, and therefore difficult to design an effective architecture to meet the requirements of the business.

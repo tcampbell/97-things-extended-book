@@ -1,6 +1,8 @@
 = It's never too early to think about performance
 :author: Rebecca Parsons
 
+By: {author}
+
 Business users specify their needs primarily through functional requirements.
 The non-functional aspects of the systems, like performance, resiliency, up-time, support needs, and the like, are the purview of the architect.
 However, often the preliminary testing of non-functional requirements is left until very late in the development cycle, and is sometimes delegated completely to the operations team.

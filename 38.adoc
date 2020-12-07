@@ -1,5 +1,7 @@
-= ﻿Everything will ultimately fail
+= Everything will ultimately fail
 :author: Michael Nygard
+
+By: {author}
 
 Hardware is fallible, so we add redundancy.
 This allows us to survive individual hardware failures, but increases the likelihood of having at least one failure present at any given time.

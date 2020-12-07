@@ -1,5 +1,7 @@
-= ﻿There is no one-size-fits-all solution
+= There is no one-size-fits-all solution
 :author: Randy Stafford
+
+By: {author}
 
 Architects must continuously develop and exercise "contextual sense" – because there is no one-size-fits-all solution to problems which may be widely diverse.
 

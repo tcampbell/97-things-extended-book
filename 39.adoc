@@ -1,6 +1,8 @@
 = Context is King
 :author: Edward Garson
 
+By: {author}
+
 I feel there is a certain irony in trying to impart something about architectural ideals, when the very premise I wish to begin with is that effectively there are no ideals.
 If this is indeed the case, then surely there is nothing to write, I am a contradiction and by doing this I run the risk of the universe imploding or something like that.
 

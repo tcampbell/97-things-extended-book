@@ -1,5 +1,7 @@
-= ﻿Record your rationale
+= Record your rationale
 :author: Timothy High
+
+By: {author}
 
 There is much debate in the software development community about the value of documentation, especially in regards to the design of the software itself.
 The disagreements generally cluster around the perceived value of doing a "big upfront design", and the difficulties of maintaining design documentation synchronized with an ever-changing code base.

@@ -1,5 +1,7 @@
-= ﻿Learn from Architects of Buildings
+= Learn from Architects of Buildings
 :author: Keith Braithwaite
+
+By: {author}
 
 [quote, Spiro Kostof]
 "Architecture is a social act and the material theater of human activity."

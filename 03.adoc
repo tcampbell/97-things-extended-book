@@ -1,6 +1,8 @@
 = Chances are your biggest problem isn't technical
 :author: Mark Ramm
 
+By: {author}
+
 Right now someone's running a failing project to build a payroll system.
 Probably more than one someone.
 

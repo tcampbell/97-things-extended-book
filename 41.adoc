@@ -1,5 +1,7 @@
-﻿Engineer in the white spaces
+﻿= Engineer in the white spaces
 :author: Michael Nygard
+
+By: {author}
 
 A system consists of interdependent programs.
 We call the arrangement of these programs and their relationships "architecture".

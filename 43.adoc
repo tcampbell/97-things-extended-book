@@ -1,5 +1,7 @@
-= ﻿Heterogeneity Wins
+= Heterogeneity Wins
 :author: Edward Garson
+
+By: {author}
 
 The natural evolution of computer technology has brought about important changes with respect to the tools that architects can use to build software systems.
 These changes have brought about a resurgence of interest in polyglot programming, which refers to the use of more than one core language in the provision of a software system.

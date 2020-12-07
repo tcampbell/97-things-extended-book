@@ -1,5 +1,7 @@
-= ﻿Janus the Architect
+= Janus the Architect
 :author: Dave Bartlett
+
+By: {author}
 
 In the Roman world, Janus was the God of beginnings and endings; doors and passageways.
 Janus is usually depicted with two heads facing in different directions, a symbol you may have seen on coins or from the movies.

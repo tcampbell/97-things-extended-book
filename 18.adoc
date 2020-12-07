@@ -1,5 +1,7 @@
-= ﻿Simplicity before generality, use before reuse
+= Simplicity before generality, use before reuse
 :author: Kevlin Henney
+
+By: {author}
 
 A common problem in component frameworks, class libraries, foundation services, and other infrastructure code is that many are designed to be general purpose without reference to concrete applications.
 This leads to a dizzying array of options and possibilities that are often unused, misused, or just not useful. Most developers work on specific systems: the quest for unbounded generality rarely serves them well (if at all).

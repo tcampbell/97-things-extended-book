@@ -1,6 +1,8 @@
 = There Can be More than One
 :author: Keith Braithwaite
 
+By: {author}
+
 It seems to be a never–ending source of surprise and distress to system builders that one data model, one message format, one message transport—in fact, exactly one of any major architectural component, policy or stance—won't serve all parts of the business equally well.
 Of course: an enterprise ( "enterprise" is red flag #1) big enough to worry about how many different "Account" tables will impact system building next decade is most likely too big and diverse for one "Account" table to do the job anyway.
 

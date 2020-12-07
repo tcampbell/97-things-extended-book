@@ -1,5 +1,7 @@
-= ﻿Architectural Tradeoffs
+= Architectural Tradeoffs
 :author: Mark Richards
+
+By: {author}
 
 Every software architect should know and understand that you can't have it all.
 It is virtually impossible to design an architecture that has high performance, high availability, a high level of security, and a high degree of abstraction all at the same time.

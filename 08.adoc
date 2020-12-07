@@ -1,6 +1,8 @@
 = Skyscrapers aren't scalable
 :author: Michael Nygard
 
+By: {author}
+
 We often hear software engineering compared to building skyscrapers, dams, or roads.
 It's true in some important aspects.
 

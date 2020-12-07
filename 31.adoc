@@ -1,5 +1,7 @@
-= ﻿Programming is an act of design
+= Programming is an act of design
 :author: Einar Landre
+
+By: {author}
 
 Kristen Nygaard, father of object-oriented programming and the Simula programming language, used to say: Programming is learning.
 Accepting the fact that programming or more precisely software development is a processes of discovery and learning and not a process of engineering and construction are fundamental to bring software practices forward.

@@ -1,6 +1,8 @@
 = Challenge assumptions - especially your own
 :author: Timothy High
 
+By: {author}
+
 Wethern's Law of Suspended Judgement states (in a rather tongue-in-cheek fashion) that "Assumption is the mother of all screw-ups."
 A more popular take on this would be, "Don't assume - it makes an 'ass' of 'u' and 'me'."
 But when you are dealing with assumptions that could cost thousands, if not millions of dollars, it's not always a laughing matter.

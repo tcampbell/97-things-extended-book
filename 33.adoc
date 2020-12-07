@@ -1,6 +1,8 @@
 = Give developers autonomy
 :author: Philip Nelson
 
+By: {author}
+
 Most architects begin their career as developers.
 An architect has new responsibilities and greater authority in determining how a system is built.
 You may find it difficult to let go of what you did as a developer in your new role as an architect.

@@ -1,5 +1,7 @@
-= ﻿Talk the Talk
+= Talk the Talk
 :author: Mark Richards
+
+By: {author}
 
 As with any profession, jargon is used so that individuals within that profession can effectively communicate with one another.
 Lawyers talk to one another about habeas corpus, voir dire, and venire; Carpenters talk to one another about butt joints, lap joints, and flux; Software Architects talk to one another about ROA, Two Step View, and Layer Supertype.

@@ -1,5 +1,7 @@
-= ﻿Don't Control, but Observe
+= Don't Control, but Observe
 :author: Gregor Hohpe
+
+By: {author}
 
 Today's systems are distributed and loosely coupled.
 Building loosely coupled systems is a bit of a drag, so why do we bother?

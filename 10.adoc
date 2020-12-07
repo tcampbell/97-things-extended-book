@@ -1,6 +1,8 @@
 = Quantify
 :author: Keith Braithwaite
 
+By: {author}
+
 "Fast" is not a requirement.
 Neither is "responsive".
 Nor "extensible".

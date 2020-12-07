@@ -1,6 +1,8 @@
 = One line of working code is worth 500 of specification
 :author: Allison Randal
 
+By: {author}
+
 Design is a beautiful thing.
 A systematic, detailed presentation and review of a problem space and solution reveals errors and opportunities for improvement, sometimes in a startlingly dramatic way.
 The specifications are important because they provide the pattern for building.

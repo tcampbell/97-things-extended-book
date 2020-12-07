@@ -1,5 +1,7 @@
-= ﻿The title of software architect has only lower-case 'a's; deal with it
+= The title of software architect has only lower-case 'a's; deal with it
 :author: Barry Hawkins
+
+By: {author}
 
 A disappointing trend has been in bloom for some time now within software development; the attempt to professionalize the practice of software architecture as one on par with the classical school of Architecture.
 This seems to stem from some need for further legitimization of one's accomplishment beyond acknowledgment among one's peers and employer.

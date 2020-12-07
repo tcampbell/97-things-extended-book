@@ -1,5 +1,7 @@
-= ﻿It's all about performance
+= It's all about performance
 :author: Craig L Russell
+
+By: {author}
 
 Imagine a personal vehicle that is roomy, comfortable, fuel efficient, inexpensive to produce, and 98% recyclable.
 You want one?

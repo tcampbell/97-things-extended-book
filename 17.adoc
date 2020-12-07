@@ -1,5 +1,7 @@
-= ﻿Business Drives
+= Business Drives
 :author: Dave Muirhead
+
+By: {author}
 
 In the context of business enterprise application development, an Architect must act as a bridge between the business and technology communities of an organization, representing and protecting the interests of each party to the other, often mediating between the two, but allowing the business to drive.
 The business organization's objectives and operating realities should be the light in which an Architect leads technology-oriented decision making.

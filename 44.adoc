@@ -1,5 +1,7 @@
-= ﻿Dwarves, Elves, Wizards, and Kings
+= Dwarves, Elves, Wizards, and Kings
 :author: Evan Cofsky
+
+By: {author}
 
 In Cryptonomicon, Randy Waterhouse explains his classification system for the different types of people he meets.
 Dwarves are hard workers, steadily producing beautiful artifacts in the dark loneliness of their caves.

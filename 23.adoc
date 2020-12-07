@@ -1,5 +1,7 @@
-= ﻿Database as a Fortress
+= Database as a Fortress
 :author: Dan Chak
+
+By: {author}
 
 The database is where all of the data, both input by your employees and data collected from your customers, resides.
 User interfaces, business and application logic, and even employees will come and go, but your data lasts forever.

@@ -1,6 +1,8 @@
 = Scope is the enemy of success
 :author: Dave Quick
 
+By: {author}
+
 Scope refers to a project's size.
 How much time, effort, and resources? What functionality at what level of quality? How difficult to deliver? How much risk? What constraints exist? The answers define a project's scope.
 Software architects love the challenge of big, complicated projects.

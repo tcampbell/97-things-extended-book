@@ -1,6 +1,8 @@
 = Commit-and-run is a crime
 :author: Niclas Nilsson
 
+By: {author}
+
 It's late in the afternoon.
 The team is churning out the last pieces of the new feature set for the iteration, and you can almost feel the rhythm in the room.
 John is in a bit of a hurry though.

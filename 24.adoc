@@ -1,6 +1,8 @@
 = Use uncertainty as a driver
 :author: Kevlin Henney
 
+By: {author}
+
 Confronted with two options, most people think that the most important thing to do is to make a choice between them.
 In design (software or otherwise), it is not.
 The presence of two options is an indicator that you need to consider uncertainty in the design.

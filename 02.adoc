@@ -1,5 +1,7 @@
-= ﻿Simplify essential complexity; diminish accidental complexity
+= Simplify essential complexity; diminish accidental complexity
 :author: Neal Ford
+
+By: {author}
 
 Essential complexity represents the difficulty inherent in any problem.
 For example, coordinating a nation's air traffic is an inherently complex problem.

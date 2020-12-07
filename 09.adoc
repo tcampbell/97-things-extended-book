@@ -1,5 +1,7 @@
-= ﻿You're negotiating more often than you think.
+= You're negotiating more often than you think.
 :author: Michael Nygard
+
+By: {author}
 
 We've all been hit with budgetecture.
 That's when sound technology choices go out the window in favor of cost-cutting.

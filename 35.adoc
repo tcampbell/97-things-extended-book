@@ -1,5 +1,7 @@
-= ﻿Warning, problems in mirror may be larger than they appear
+= Warning, problems in mirror may be larger than they appear
 :author: Dave Quick
+
+By: {author}
 
 I've worked on hundreds of software projects.
 Every one had issues that caused more problems than the team expected.
